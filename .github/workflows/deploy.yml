@@ -3,7 +3,7 @@ name: Deploy React App to GitHub Pages
 on:
   push:
     branches:
-      - main  # Cambia si usas otra rama
+      - main
 
 jobs:
   build-and-deploy:
